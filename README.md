@@ -1,5 +1,7 @@
 # React GitHub API Integration Project
 
+live : https://whimsical-fenglisu-060496.netlify.app
+
 **A modern landing page built with React, React Router, Tailwind CSS, and GitHub API integration.**  
 This project demonstrates a responsive webpage that dynamically fetches and displays data from the GitHub API, along with illustrations and images to enhance user engagement.
 
